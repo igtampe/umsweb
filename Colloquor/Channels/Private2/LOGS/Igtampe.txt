@@ -1,0 +1,15 @@
+\\KRATOS\Igtampe Signed in as Igtampe on Tue 09/26/2017 18:17:39.90. 
+{18:17:47.22} Igtampe Joined the Chat.  
+{18:17:57.26} [Igtampe] Bonjour  
+{18:18:08.35} [Igtampe] BONJOUR  
+{18:18:16.48} [SERVER] QUE  
+{18:18:20.52} [SERVER] ok uh  
+{18:18:26.68} [Igtampe] pero  
+{18:18:46.75} [SERVER] Hello  
+{18:19:13.23} Igtampe has gone AFK.  
+{18:19:16.26} Igtampe is no longer AFK  
+{18:19:37.41} [Igtampe] Holka  
+{18:19:44.45} [SERVER] Holla Holla Get Dolla  
+{18:19:57.65} [Igtampe] ;)  
+{18:20:03.82} [Igtampe] Como estasw  
+{18:20:20.09} [SERVER] The Process cannot access the file because it's being used by another process  
