@@ -1,0 +1,22 @@
+อออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+บ  I D  บ District            บ Tax Rate:
+อออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+บ 33118 บ Federal             บ [CONSULT EZ-TAX] [AUTOMATICALLY HANDLED]
+บ       บ                     บ
+บ 86700 บ UMS Main and UMS-EX บ XX% if over [X]
+บ       บ                     บ
+บ       บ                     บ
+บ       บ                     บ
+บ 86701 บ Paradisus and Domum บ XX% if over [X]
+บ       บ                     บ Casino income is 10%
+บ       บ                     บ
+บ       บ                     บ 
+บ 86702 บ Suburbia and Urbia  บ XX% if over [X]
+บ       บ                     บ Exemption on sold houses
+บ       บ                     บ
+บ       บ                     บ
+บ 86703 บ Laertes             บ XX% if over [X], XX% if over [X]
+บ       บ                     บ Weird tax law here
+บ       บ                     บ Perhaps, for some spice, nothing.
+บ       บ                     บ Yes I am the fish.
+อออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ

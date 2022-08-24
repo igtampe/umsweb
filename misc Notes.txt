@@ -1,0 +1,8 @@
+If Command Extensions are enabled, the following additional
+forms of the FOR command are supported:
+
+FOR /L %variable IN (start,step,end) DO command [command-parameters]
+
+    The set is a sequence of numbers from start to end, by step amount.
+    So (1,1,5) would generate the sequence 1 2 3 4 5 and (5,-1,1) would
+    generate the sequence (5 4 3 2 1)
